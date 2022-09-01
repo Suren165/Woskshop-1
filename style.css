@@ -1,0 +1,21 @@
+
+
+h1{
+    text-align: center;
+}
+
+.meny{
+    display: grid;
+    grid-template-rows: 2fr 2fr 2fr 2fr;
+    border: 5px;
+    place-items:center;
+}
+
+.main{
+    display: grid;
+    grid-template-columns:15fr 30fr;
+}
+
+body{
+    background-color: bisque;
+}
